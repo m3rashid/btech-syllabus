@@ -1,7 +1,8 @@
 UNIT 1
 
 - Introduction
-- Modular ArithmeticLinear congruence\n-Primality testing
+- Modular ArithmeticLinear congruence
+- Primality testing
 - Factorization
 - Chinese Remainder Theorem
 - Quadratic congruence
@@ -63,7 +64,6 @@ UNIT-4 Access control
 - keys and tickets
 - use of AS and TGS
 - replicated servers.
-
 - Kerberos V4: names
 - inter-realm authentication
 - Key version numbers
