@@ -1,6 +1,6 @@
 UNIT – I INTRODUCTION AND OPERATING SYSTEM STRUCTURES
-Definition
 
+- Definition
 - What Operating System Do
 - Single Processor Systems
 - Multiprocessor/parallel Systems. Concept of Multiprogramming
@@ -29,24 +29,23 @@ Definition
 
 UNIT- II PROCESS CONCEPT AND SCHEDULLING
 
-- The Process
-- Process State
+- [-] The Process
+- [-] Process State
 - Process Control Block
-- Process Scheduling
+- [-] Process Scheduling
 - Operations on Processes
-- Concept of Threading.
-- Schedulers
-- Scheduling Criteria
-- Scheduling Algorithms: First Come
-- First Served (FCFS)
-- Shortest Job First(SJF)
-- Shortest Remaining Time First(SRTF)
-- Longest Job First(LJF)
-- Longest Remaining Time First(LRTF)
+- [-] Concept of Threading.
+- [-] Schedulers
+- [-] Scheduling Criteria
+- [-] Scheduling Algorithms: First Come First Served (FCFS)
+- [-] Shortest Job First(SJF)
+- [-] Shortest Remaining Time First(SRTF)
+- [-] Longest Job First(LJF)
+- [-] Longest Remaining Time First(LRTF)
 - Highest Response Ratio Next (HRRN)
-- Priority Scheduling
-- Round Robin Scheduling
-- Multilevel Queue Scheduling(MLQ)
+- [-] Priority Scheduling
+- [-] Round Robin Scheduling
+- [-] Multilevel Queue Scheduling(MLQ)
 - Multilevel Feedback Queue(MLFQ) Scheduling
 - Multiprocessor Scheduling. Algorithm evaluation
 - deterministic modeling
@@ -59,17 +58,15 @@ UNIT- III MEMORY-MANAGEMENT STRATEGIES
 - Background: Basic Hardware
 - Address Binding
 - Logical vs. Physical Address Space. Swapping
-- Contiguous Memory Allocation
-- fixed partition
-- Best-Fit
-- First-Fit and Worst-Fit Memory Allocation Method
-- dynamic partitioning
-- compaction
-- protection and sharing
+- [-] Contiguous Memory Allocation
+- [-] fixed partition
+- [-] Best-Fit, First-Fit and Worst-Fit Memory Allocation Method
+- [-] dynamic partitioning
+- compaction, protection and sharing
 - Buddy System
-- fragmentation-internal and external
-- Non-Contiguous Allocation
-- Paging
+- [-] fragmentation: internal and external
+- [-] Non-Contiguous Allocation
+- [-] Paging
 - hardware support for paging
 - Translation Look Aside Buffer
 - Protection
@@ -78,18 +75,18 @@ UNIT- III MEMORY-MANAGEMENT STRATEGIES
 - Hierarchical Paging
 - Hashed Page Table
 - Inverted Page Table
-- Segmentation
-- Segmentation with paging
-- Virtual Memory: Background
-- swapping
+- [-] Segmentation
+- [-] Segmentation with paging
+- [-] Virtual Memory
+- Background swapping
 - Demand paging
-- Page Replacement Algorithms
-- First in First out(FIFO)
-- Least-recently-used( LRU)
-- optical page replacement
+- [-] Page Replacement Algorithms
+- [-] First in First out(FIFO)
+- [-] Least-recently-used( LRU)
+- [-] optimal page replacement
 - clock page replacement
 - Least Frequently Used(LFU)
-- Belady’s Anomaly
+- [-] Belady’s Anomaly
 - Second-Chance Algorithm
 - Enhanced Second-Chance Algorithm
 - thrashing
@@ -110,11 +107,11 @@ UNIT- IV SYNCHRONIZATION AND DEADLOCK
 - Synchronization problem Solution using Monitors
 - System model
 - Deadlock characterization
-- Methods for handling deadlocks
-- Deadlock Prevention
-- Deadlock Avoidance
+- [-] Methods for handling deadlocks
+- [-] Deadlock Prevention
+- [-] Deadlock Detection
+- [-] Deadlock Avoidance
 - Banker’s Algorithm
-- Deadlock Detection
 - Recovery from Deadlock
 
 ---
@@ -131,10 +128,12 @@ UNIT – V FILE-SYSTEM INTERFACE AND MASS- STORAGE STRUCTURE
 - Directory implementation
 - Allocation Methods. Free-space Management
 - efficiency and performance Secondary Storage Disk- structure
-- Disk- scheduling: FCFS
-- SSTF
-- SCAN
-- C-SCAN
-- LOOK
-- C-LOOK Scheduling algorithms
+- [-] Disk- scheduling:
+  - [-] FCFS (first come first serve)
+  - [-] SSTF (shortest seek time first)
+  - [-] SCAN
+  - [-] C-SCAN
+  - [-] LOOK
+  - [-] C-LOOK
+- Scheduling algorithms
 - RAID
