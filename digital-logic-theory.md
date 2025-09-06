@@ -1,4 +1,6 @@
-1. BOOLEAN ALGEBRA AND LOGIC GATES
+### Digital Logic Theory
+
+1. Boolean Algebra and Logic Gates
 
    - Binary numbers
    - Base-conversions
@@ -12,7 +14,7 @@
    - SOP and POS forms
    - other logic operations
 
-2. FUNCTION MINIMIZATION
+2. Function minimization
 
    - Digital logic gates. Karnaugh map methods
    - limitations of K-maps for larger variables
@@ -22,14 +24,14 @@
    - Don’t-care conditions
    - Tabular method.
 
-3. COMBINATIONAL SYSTEMS-I
+3. Combinational Systems-I
 
    - Half-Adder
    - Full-Adder
    - Binary Adder/Subtractor
    - Decimal Adder
 
-4. COMBINATIONAL SYSTEMS-II
+4. Combinational Systems-II
 
    - Magnitude Comparator
    - Demultiplexer
@@ -38,7 +40,7 @@
    - Priority Encoder
    - Parity Checker/Generator
 
-5. SEQUENTIAL SYSTEMS
+5. Sequential Systems
 
    - Definition and state representation
    - Flip-Flops: RS, D, JK-M/S and their working characteristics

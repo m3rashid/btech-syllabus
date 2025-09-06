@@ -1,3 +1,5 @@
+### Computer Graphics
+
 1. Introduction Computer Graphics and Primitive Algorithms
 
    - Introduction to Image and Objects

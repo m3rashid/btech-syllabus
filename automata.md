@@ -1,3 +1,5 @@
+### Automata Theory
+
 1. Introduction to Finite Automata
 
    - strings, alphabets and languages

@@ -1,3 +1,5 @@
+### Soft Computing
+
 1. Introduction to Soft Computing
 
    - various types of soft computing techniques: Neural Networks

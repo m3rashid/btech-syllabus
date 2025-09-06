@@ -1,3 +1,5 @@
+### Embedded Systems
+
 1. Introduction
 
    - components
@@ -38,8 +40,6 @@
    - a Stepper Motor
    - Interfacing with 8255
 
----
-
 3. 8051 Microcontroller Programming
 
    - Addressing Modes
@@ -57,8 +57,6 @@
    - Introduction to Arm
    - Pic
    - and AVR Processors and other recent processors
-
----
 
 5. Basics of Communication with 8051
 

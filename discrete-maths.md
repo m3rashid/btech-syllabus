@@ -1,3 +1,5 @@
+### Discrete Mathematics
+
 1. Algebraic Structures
 
    - equivalence relations
